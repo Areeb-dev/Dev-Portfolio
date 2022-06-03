@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/areeb-dev/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/Areeb-dev"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:m.areebkhan125@gmail.com"
+        }
+    ]
+}

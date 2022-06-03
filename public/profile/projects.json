@@ -1,0 +1,66 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/portfolio-poster-areeb.png",
+            "title": "Dev Portfolio",
+            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Areeb-dev/Dev-Portfolio"
+                },
+                {
+                    "text": "Live",
+                    "href": ""
+                }
+            ],
+            "tags" : [
+                "React",
+                "Portfolio",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/quiz-app.png",
+            "title": "Quiz Web-Appliaction",
+            "bodyText": "- A Quiz web app made using React \n - Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Areeb-dev/Quiz-Application"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://quiz-application-react.herokuapp.com/"
+                }
+            ],
+            "tags" : [
+                "React",
+                "JavaScript",
+                "BootStrap",
+                "Heroku"
+            ]
+        },
+        {
+            "image" : "images/projects/resturant-admin-panel.png",
+            "title": "Resturant Management Admin Panel",
+            "bodyText": "- Resturant Management Admin Panel made in React \n - Fully customisable and dynamic, easily change data and images",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Areeb-dev/rms_dashboard"
+                },
+                {
+                    "text": "Live",
+                    "href": "http://myrestaurant.surge.sh/"
+                }
+            ],
+            "tags" : [
+                "JavaScript",
+                "React",
+                "Node.Js",
+                "MongoDB"
+            ]
+        }
+    ]
+}

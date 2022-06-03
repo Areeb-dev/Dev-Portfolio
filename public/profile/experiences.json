@@ -1,0 +1,22 @@
+{
+    "experiences": [
+        {
+            "title": "MERN Stack Developer",
+            "subtitle": "NoCodeAI",
+            "workType": "Internship",
+            "workDescription": [
+                "Worked on abc."
+            ],
+            "dateText": "03/2022 – 05/2022"
+        },
+        {
+            "title": "Full Stack Developer",
+            "subtitle": "NoCodeAI",
+            "workType": "Junior Developer",
+            "workDescription": [
+                "Done bcd work."
+            ],
+            "dateText": "05/2022 – Present"
+        }
+    ]
+}
